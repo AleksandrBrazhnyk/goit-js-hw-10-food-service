@@ -11,13 +11,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://aleksandrbrazhnyk.github.io/goit-js-hw-10-food-service/.git"
+    "url": "git+https://github.com/luxplanjay/webpack-starter-kit/.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://aleksandrbrazhnyk.github.io/goit-js-hw-10-food-service/issues"
+    "url": "https://github.com/luxplanjay/webpack-starter-kit/issues"
   },
   "homepage": "https://aleksandrbrazhnyk.github.io/goit-js-hw-10-food-service/",
   "devDependencies": {
